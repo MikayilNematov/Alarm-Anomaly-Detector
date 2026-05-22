@@ -1,5 +1,5 @@
 # 🚨 Alarm Anomaly Detector
-
+![Application Screenshot](assets/screenshot.png)
 A machine learning project for detecting anomalies in alarm system data.
 
 ## Features
